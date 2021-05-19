@@ -1,0 +1,41 @@
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.exe.config
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.exe
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.pdb
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csprojAssemblyReference.cache
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.login.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csproj.GenerateResource.cache
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csproj.CoreCompileInputs.cache
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.exe
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.pdb
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.TrangChu.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Hang.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.LoaiHang.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.NhaCungCap.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.NhanVien.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.NhapHang.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.thongkehangton.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.XuatHang.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.chitietpn.resources
+D:\BÁCH MÔN ĐẠI HỌC\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.chitietxuat.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.exe.config
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.exe
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.pdb
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csprojAssemblyReference.cache
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.dangky.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.chitietpn.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.chitietxuat.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.login.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Hang.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.LoaiHang.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.NhaCungCap.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Nhanvien.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.NhapHang.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.thongkehangton.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.TrangChu.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.XuatHang.resources
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csproj.GenerateResource.cache
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csproj.CoreCompileInputs.cache
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.exe
+D:\BMDH\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.pdb
